@@ -52,7 +52,7 @@ The project applies data cleaning, exploratory data analysis (EDA), grouping, ma
 
 ---
 
-## 📈 Sample Insights
+## 📈 Sample Insights 
 
 - Internet quality showed minimal impact on exam scores.
 - Gaming and social media usage showed negative correlation with performance.
